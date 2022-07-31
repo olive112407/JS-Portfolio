@@ -1,0 +1,41 @@
+div {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #181818;
+    color: #8e6f14;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 7px;
+    text-decoration: none;
+}
+
+#big_div {
+    display: flex;
+    justify-content: space-around;
+    border: 1px solid #8e6f14;
+    border-radius: 15px;
+}
+
+body {
+    background-color: #181818
+}
+
+h1 {
+    font-size: 50px;
+    color: #8e6f14;
+    text-align: center;
+}
+
+img {
+    align-items: center
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#big_div2 {
+    text-align: center;
+
+}
